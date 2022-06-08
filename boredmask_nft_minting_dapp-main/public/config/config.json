@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x384bDdD9fd1e8bbc038c2a804D19B7FB10E631Ce",
+  "SCAN_LINK": "https://polygonscan.com/address/0x384bddd9fd1e8bbc038c2a804d19b7fb10e631ce",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Mask NFT",
+  "SYMBOL": "BMN",
+  "MAX_SUPPLY": 1111,
+  "WEI_COST": 3000000000000000000
+  "DISPLAY_COST": 3,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/board-mask-nft",
+  "SHOW_BACKGROUND": true
+}
